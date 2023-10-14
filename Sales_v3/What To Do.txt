@@ -1,0 +1,35 @@
+﻿	//////Add Loading Var To All Forms            [Done]
+	//////Remove The Old Vars Form The LoginForm  [Done]
+	//////Creat THe json Var In SalesForm         [Done]
+	//////Creat Method To Sit The Data To Toggles In Printing Form [d]
+  //////Edite ChangeColor And Language In SalePointForm 
+  //////Edite The Color In The Printing Form      [Done]
+  //////Creat Auto Start Option In Setting Form   
+  //////Creat Printing Form		   [Done]
+  //////////Add Logo               [Done]
+  //////////Add Name               [Done]
+  //////////Add Columns            [Done]
+  //////////Select Padding         [Done]
+  //////////Add The Total          [Done]
+  //////////Add The Date		   [Done]
+  //////////Add Time               [Done]
+  //////////Add "Welcome"          [Done]
+  //////////Creat Save Button      [Done]
+  //////////Creat Preview Button   [Done]
+  //////////Creat Defulte Button   
+  //////////Creat Combo To Choose The Printer [Done]
+  ////Fix The Save Method In Setting Form      [Done]
+  // Restart Button In Accounts Form			[Done]
+  // Refresh The Get Data At Edit Button        [Done]
+  // Remove ":" From The Language Setting In Accouts Form And Athor Form  [Done]
+  // Check The Bug Princing Part In The Printing Section In SalesPoint Form  [Done]
+  // Set Try And Catch For The Connection Time In Login Form
+  // Set Option To Choose The Long Of The Peper In Printing Form
+  //Change Fonts In All Form
+
+
+
+
+
+ // Search For  How To Resize Tools In Run Time 
+ // Search For How To Avoid Cont=ection Time out For Sql Connectiobn  

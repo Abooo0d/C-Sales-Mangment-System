@@ -1,0 +1,141 @@
+c:\users\saad_aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe.config
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Sales_v3.pdb
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.LoginForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Properties.Resources.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.exe
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.pdb
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.MainForm.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalePointForm.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalesForm.resources
+C:\Users\Saad_Aldeen\Documents\Visual Studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\AboodTools_v4.dll
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.ToolsMangmentForms.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.StorageForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.WarningsForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SettingsForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.EmployeesForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.AccountsForm.resources
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\AboodTools_v5.dll
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Saad_Aldeen\documents\visual studio 2015\Projects\Sales_v3\Sales_v3\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe.config
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.exe
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.pdb
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Sales_v3.pdb
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csprojResolveAssemblyReference.cache
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.AccountsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.EmployeesForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.LoginForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.MainForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalePointForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalesForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SettingsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.StorageForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.ToolsMangmentForms.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.WarningsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Properties.Resources.resources
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe.config
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.exe
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.pdb
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\Sales_v3.pdb
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.AccountsForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.EmployeesForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.LoginForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.MainForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalePointForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalesForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SettingsForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.StorageForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.ToolsMangmentForms.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.WarningsForm.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Properties.Resources.resources
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.PrintingForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe.config
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.exe
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.pdb
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\bin\Debug\Sales_v3.pdb
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csprojResolveAssemblyReference.cache
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.AccountsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.EmployeesForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.LoginForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.MainForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.PrintingForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalePointForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalesForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SettingsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.StorageForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.ToolsMangmentForms.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.WarningsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Properties.Resources.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe.config
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.exe
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.pdb
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\bin\Debug\Sales_v3.pdb
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.AccountsForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.EmployeesForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.LoginForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.MainForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.PrintingForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalePointForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalesForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SettingsForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.StorageForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.ToolsMangmentForms.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.WarningsForm.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Properties.Resources.resources
+C:\Users\Saad_Aldeen\Desktop\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csproj.GenerateResource.Cache
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe.config
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.exe
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.pdb
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\bin\Debug\Sales_v3.exe
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\bin\Debug\Sales_v3.pdb
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.AccountsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.EmployeesForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.LoginForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.MainForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.PrintingForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalePointForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SalesForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.SettingsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.StorageForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.ToolsMangmentForms.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.WarningsForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Properties.Resources.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Latset\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csproj.GenerateResource.Cache
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.csprojResolveAssemblyReference.cache
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad_Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase_log.ldf
+C:\Users\Saad-Aldeen\Desktop\Sales_v3\Sales_v3\obj\Debug\Sales_v3.Forms.PrintingForm.resources
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase.mdf
+C:\Users\Saad-Aldeen\Desktop\Study\Sales_v3\Sales_v3\bin\Debug\bin\Debug\Database\SalesDataBase_log.ldf
